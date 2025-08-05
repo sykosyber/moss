@@ -2,7 +2,7 @@
 **grow moss**
 
 click "Regenerate" for a new moss each time. 
-Font: Blue Screen by Billy Argel
+Font used in title: Blue Screen by Billy Argel
 
 steps to use:
 1. download moss.html **and** moss-title.png
