@@ -6,5 +6,6 @@ Font used in title: Blue Screen by Billy Argel
 
 steps to use:
 1. download moss.html **and** moss-title.png
-2. add them both to the same folder
-3. run moss.html in your browser
+2. add both to the same folder
+3. from this folder, run moss.html in your browser
+4. m o s s
