@@ -1,5 +1,5 @@
 # moss
-grow moss
+**grow moss**
 
 click "Regenerate" for a new moss each time. 
 Font: Blue Screen by Billy Argel
