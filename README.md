@@ -8,4 +8,4 @@ steps to use:
 1. download moss.html **and** moss-title.png
 2. add both to the same folder
 3. from this folder, run moss.html in your browser
-4. m o s s
+4. grow a moss :) 🪴
